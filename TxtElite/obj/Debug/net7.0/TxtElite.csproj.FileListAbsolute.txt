@@ -1,0 +1,5 @@
+C:\Users\space\RiderProjects\TxtElite\TxtElite\obj\Debug\net7.0\TxtElite.csproj.AssemblyReference.cache
+C:\Users\space\RiderProjects\TxtElite\TxtElite\obj\Debug\net7.0\TxtElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\space\RiderProjects\TxtElite\TxtElite\obj\Debug\net7.0\TxtElite.AssemblyInfoInputs.cache
+C:\Users\space\RiderProjects\TxtElite\TxtElite\obj\Debug\net7.0\TxtElite.AssemblyInfo.cs
+C:\Users\space\RiderProjects\TxtElite\TxtElite\obj\Debug\net7.0\TxtElite.csproj.CoreCompileInputs.cache
