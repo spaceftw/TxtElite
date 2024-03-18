@@ -3,3 +3,13 @@ C:\Users\space\RiderProjects\TxtElite\TxtElite\obj\Debug\net7.0\TxtElite.Generat
 C:\Users\space\RiderProjects\TxtElite\TxtElite\obj\Debug\net7.0\TxtElite.AssemblyInfoInputs.cache
 C:\Users\space\RiderProjects\TxtElite\TxtElite\obj\Debug\net7.0\TxtElite.AssemblyInfo.cs
 C:\Users\space\RiderProjects\TxtElite\TxtElite\obj\Debug\net7.0\TxtElite.csproj.CoreCompileInputs.cache
+C:\Users\space\RiderProjects\TxtElite\TxtElite\bin\Debug\net7.0\TxtElite.exe
+C:\Users\space\RiderProjects\TxtElite\TxtElite\bin\Debug\net7.0\TxtElite.deps.json
+C:\Users\space\RiderProjects\TxtElite\TxtElite\bin\Debug\net7.0\TxtElite.runtimeconfig.json
+C:\Users\space\RiderProjects\TxtElite\TxtElite\bin\Debug\net7.0\TxtElite.dll
+C:\Users\space\RiderProjects\TxtElite\TxtElite\bin\Debug\net7.0\TxtElite.pdb
+C:\Users\space\RiderProjects\TxtElite\TxtElite\obj\Debug\net7.0\TxtElite.dll
+C:\Users\space\RiderProjects\TxtElite\TxtElite\obj\Debug\net7.0\refint\TxtElite.dll
+C:\Users\space\RiderProjects\TxtElite\TxtElite\obj\Debug\net7.0\TxtElite.pdb
+C:\Users\space\RiderProjects\TxtElite\TxtElite\obj\Debug\net7.0\TxtElite.genruntimeconfig.cache
+C:\Users\space\RiderProjects\TxtElite\TxtElite\obj\Debug\net7.0\ref\TxtElite.dll
