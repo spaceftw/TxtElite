@@ -7,7 +7,6 @@
     <list default="true" id="9a676113-f72a-4153-b423-4a5fa5e5a43c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TxtElite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TxtElite/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TxtElite/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TxtElite/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TxtElite/obj/Debug/net7.0/TxtElite.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TxtElite/obj/Debug/net7.0/TxtElite.csproj.FileListAbsolute.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1710503309262</updated>
       <workItem from="1710503311819" duration="8936000" />
-      <workItem from="1710789078648" duration="6110000" />
+      <workItem from="1710789078648" duration="6231000" />
+      <workItem from="1712675022186" duration="9860000" />
     </task>
     <task id="LOCAL-00001" summary="Setting up">
       <created>1710531767469</created>
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710535564744</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added Player Workspace and Names (and trying to figure out hex to int)">
+      <created>1710795910326</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710795910326</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,38 +113,39 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Setting up" />
     <MESSAGE value="More set up stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="More set up stuff" />
+    <MESSAGE value="Added Player Workspace and Names (and trying to figure out hex to int)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Player Workspace and Names (and trying to figure out hex to int)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$USER_HOME$/Desktop/TXTELITE.C</url>
-          <line>170</line>
-          <option name="timeStamp" value="6" />
+          <line>203</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/TxtElite/Program.cs</url>
-          <line>109</line>
+          <line>182</line>
           <properties documentPath="C:\Users\space\RiderProjects\TxtElite\TxtElite\Program.cs" initialLine="109" containingFunctionPresentation="method 'Main'">
             <startOffsets>
-              <option value="3296" />
+              <option value="6790" />
             </startOffsets>
             <endOffsets>
-              <option value="3343" />
+              <option value="6837" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/TxtElite/Program.cs</url>
-          <line>112</line>
+          <line>185</line>
           <properties documentPath="C:\Users\space\RiderProjects\TxtElite\TxtElite\Program.cs" initialLine="110" containingFunctionPresentation="method 'Main'">
             <startOffsets>
-              <option value="3459" />
+              <option value="7000" />
             </startOffsets>
             <endOffsets>
-              <option value="3493" />
+              <option value="7034" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="8" />
